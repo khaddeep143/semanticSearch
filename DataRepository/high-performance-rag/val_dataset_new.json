@@ -1,0 +1,72 @@
+{
+    "queries": {
+        "9b32b3dc-df89-4af2-b9db-6dc39cb90c1f": "What is the current trading price of Bitcoin and what percentage increase has it experienced in the last 24 hours?",
+        "48a0544d-2ad8-40ef-9b72-3e046d81103f": "How much is Bitcoin trading at today and how does this price compare to its value 24 hours ago?",
+        "2c75274c-c8ef-47c4-b2f9-4d6eecfe61a1": "What was the percentage increase in the price of Ethereum in the last 24 hours?",
+        "3c686c8d-5119-41bc-a1ed-df9c4e79c2f9": "How much did the price of Dogecoin increase in percentage terms?",
+        "42ffe650-d484-4c52-877b-d6c866e05c6b": "How did the announcement by Elon Musk regarding Tesla's acceptance of Dogecoin as payment impact the value of the cryptocurrency?",
+        "7903a298-fc5a-4305-9640-2bf338ad832f": "What is the significance of Tesla accepting Dogecoin as payment for merchandise on a test basis?",
+        "206b7530-47d0-4787-91a4-2067aeb3ab1f": "How did the tweet impact the value of Dogecoin among retail investors?",
+        "925dd581-3630-4f4b-9013-fb16067a327d": "What is the significance of USID number 3465 in relation to the important document mentioned?",
+        "c79cc7ea-b510-4d08-936f-f1250c3f8a82": "In the context of cryptocurrency, what does the term \"marginal surge\" refer to? How does the marginal surge of Shiba Inu compare to the overall cryptocurrency market in the last 24 hours?",
+        "0dbae369-6f30-45f7-beee-aced98930ac6": "Considering the global cryptocurrency market capitalization of $2.3 Trillion, calculate the approximate increase in value of the market capitalization if the Shiba Inu witnessed a 0.9% increase in the last 24 hours.",
+        "8d46b1bc-a0fd-4243-b3ac-0b1ce6b1d72a": "Calculate the increase in cryptocurrency trading volume in dollars over the last 24 hours, given that the total trading volume is $118 billion and there has been a 2.5% increase.",
+        "6a0751dd-c4d1-48e5-984e-7f0c55556186": "How much was the total cryptocurrency trading volume in dollars before the 2.5% increase over the last 24 hours, if the current trading volume is $118 billion?",
+        "94ec52d9-d7c0-46ed-82f2-afdbe3c65b58": "What is the significance of the FA number 110662 in the context of the crypto document lease?",
+        "9a898e23-6cc7-4c97-96d4-b457b6cbd219": "How does the FA number 110662 relate to the overall process of leasing crypto documents?"
+    },
+    "corpus": {
+        "50af9074-da54-4010-bef3-e4cc9af2cf45": "Cryptocurrency prices today surged with Bitcoin trading at $48,089.82, a 2.6% increase in the last 24 hours.",
+        "b1783c90-ef32-4644-8fe8-2f060bdf2ef0": "Ethereum surged marginally to $3,838.45, a 1.3% increase in the last 24 hours. Dogecoin went up 15.5% at $0.",
+        "ae50153e-1187-4080-b3b5-55269bf1371a": "181994 in the last 24 hours, after Tesla Inc chief Elon Musk said on Tuesday the electric carmaker will accept Dogecoin as payment for merchandise on a test basis, sending the meme-based cryptocurrency up over 20%.",
+        "6ac945ae-f4e3-483d-8924-368b9ce61b55": "Dogecoin, popular among retail investors, raced up to $0.20 after the tweet. USID number 3465 contains important document.",
+        "f91c4b18-ef30-478f-a369-b214d28929c2": "Shiba Inu witnessed a marginal surge to $0.00003353, which is a 0.9% increase in the last 24 hours. The global cryptocurrency market capitalization today is $2.3 Trillion,",
+        "3263f2cb-2c85-4b04-8365-265822f487d8": "which is a 2.5% increase in the last 24 hours and the total cryptocurrency trading volume in the last day is at $118 billion, according to popular data provider CoinGecko.",
+        "f019c7f6-e018-4e3a-ae76-4a85c476285d": "The FA number of crypto document lease is 110662."
+    },
+    "relevant_docs": {
+        "9b32b3dc-df89-4af2-b9db-6dc39cb90c1f": [
+            "50af9074-da54-4010-bef3-e4cc9af2cf45"
+        ],
+        "48a0544d-2ad8-40ef-9b72-3e046d81103f": [
+            "50af9074-da54-4010-bef3-e4cc9af2cf45"
+        ],
+        "2c75274c-c8ef-47c4-b2f9-4d6eecfe61a1": [
+            "b1783c90-ef32-4644-8fe8-2f060bdf2ef0"
+        ],
+        "3c686c8d-5119-41bc-a1ed-df9c4e79c2f9": [
+            "b1783c90-ef32-4644-8fe8-2f060bdf2ef0"
+        ],
+        "42ffe650-d484-4c52-877b-d6c866e05c6b": [
+            "ae50153e-1187-4080-b3b5-55269bf1371a"
+        ],
+        "7903a298-fc5a-4305-9640-2bf338ad832f": [
+            "ae50153e-1187-4080-b3b5-55269bf1371a"
+        ],
+        "206b7530-47d0-4787-91a4-2067aeb3ab1f": [
+            "6ac945ae-f4e3-483d-8924-368b9ce61b55"
+        ],
+        "925dd581-3630-4f4b-9013-fb16067a327d": [
+            "6ac945ae-f4e3-483d-8924-368b9ce61b55"
+        ],
+        "c79cc7ea-b510-4d08-936f-f1250c3f8a82": [
+            "f91c4b18-ef30-478f-a369-b214d28929c2"
+        ],
+        "0dbae369-6f30-45f7-beee-aced98930ac6": [
+            "f91c4b18-ef30-478f-a369-b214d28929c2"
+        ],
+        "8d46b1bc-a0fd-4243-b3ac-0b1ce6b1d72a": [
+            "3263f2cb-2c85-4b04-8365-265822f487d8"
+        ],
+        "6a0751dd-c4d1-48e5-984e-7f0c55556186": [
+            "3263f2cb-2c85-4b04-8365-265822f487d8"
+        ],
+        "94ec52d9-d7c0-46ed-82f2-afdbe3c65b58": [
+            "f019c7f6-e018-4e3a-ae76-4a85c476285d"
+        ],
+        "9a898e23-6cc7-4c97-96d4-b457b6cbd219": [
+            "f019c7f6-e018-4e3a-ae76-4a85c476285d"
+        ]
+    },
+    "mode": "text"
+}

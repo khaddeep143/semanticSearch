@@ -1,0 +1,23 @@
+{
+  "api_version": "2024-01-02",
+  "model_id": "prebuilt-doc",
+  "content": "Cryptocurrency prices today surged with Bitcoin trading at $48,089.82, a 2.6% increase in the last 24 hours. Ethereum surged marginally to $3,838.45, a 1.3% increase in the last 24 hours. Dogecoin went up 15.5% at $0.181994 in the last 24 hours, after Tesla Inc chief Elon Musk said on Tuesday the electric carmaker will accept Dogecoin as payment for merchandise on a test basis, sending the meme-based cryptocurrency up over 20%. Dogecoin, popular among retail investors, raced up to $0.20 after the tweet. USID number 3465 contains important document. Shiba Inu witnessed a marginal surge to $0.00003353, which is a 0.9% increase in the last 24 hours. The global cryptocurrency market capitalization today is $2.3 Trillion, which is a 2.5% increase in the last 24 hours and the total cryptocurrency trading volume in the last day is at $118 billion, according to popular data provider CoinGecko. The FA number of crypto document lease is 110662.",
+  "languages": [],
+  "pages": [],
+  "paragraphs": [{
+    "role": null,
+    "content": "Cryptocurrency prices today surged with Bitcoin trading at $48,089.82, a 2.6% increase in the last 24 hours. Ethereum surged marginally to $3,838.45, a 1.3% increase in the last 24 hours. Dogecoin went up 15.5% at $0.181994 in the last 24 hours, after Tesla Inc chief Elon Musk said on Tuesday the electric carmaker will accept Dogecoin as payment for merchandise on a test basis, sending the meme-based cryptocurrency up over 20%. Dogecoin, popular among retail investors, raced up to $0.20 after the tweet. USID number 3465 contains important document.",
+    "bounding_regions": [],
+    "spans": []
+  },
+  {
+    "role": null,
+    "content": "Shiba Inu witnessed a marginal surge to $0.00003353, which is a 0.9% increase in the last 24 hours. The global cryptocurrency market capitalization today is $2.3 Trillion, which is a 2.5% increase in the last 24 hours and the total cryptocurrency trading volume in the last day is at $118 billion, according to popular data provider CoinGecko. The FA number of crypto document lease is 110662.",
+    "bounding_regions": [],
+    "spans": []
+  }],
+  "tables": [],
+  "key_value_pairs": [],
+  "styles": [],
+  "documents": []
+}
